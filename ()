@@ -1,0 +1,21 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   __pycache__/sort.cpython-39.pyc
+#	new file:   coco.names
+#	new file:   notebook.ipynb
+#	new file:   one_way.mp4
+#	new file:   one_way_traffic.mp4
+#	new file:   output_video.mp4
+#	new file:   requirements.txt
+#	new file:   sort.py
+#	new file:   twoo_way_traffic.mp4
+#	new file:   yolo_detect_and_count.py
+#	new file:   yolov8n.pt
+
